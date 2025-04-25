@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacqulin Justin
 - 👀 I’m interested in Programming, Artificial Intelligence and Robotics
-- 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on a team tat help me dwell in a Robotics and AI career
+- 🌱 I’m currently learning Embedded Systems and Programming
+- 💞️ I’m looking to collaborate on a team that help me dwell in a Robotics and AI career
 - 📫 Reach out to me at jaju8756@colorado.edu / +1 303-356-8170
 - 😄 Pronouns: She/Her
 
